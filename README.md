@@ -38,9 +38,9 @@
 ```
 # 导出效果对比：
 ## 分页被截断
-![alt text](f2c387cff12d7b0a2d3d85fdc7f2d08.png)
+![alt text](2.png)
 ## 分页不被截断
-![alt text](5ef3280be2016fde0b4daf8c4dad980.png)
+![alt text](1.png)
 
 #### 特技
 

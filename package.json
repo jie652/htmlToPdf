@@ -1,0 +1,25 @@
+{
+  "name": "htmlToPdf",
+  "version": "1.0.0",
+  "description": "前端将html导出pdf，解决html被分页节段问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "html",
+    "js",
+    "ts",
+    "jspdf",
+    "html2canvas",
+    "pdf"
+  ],
+  "author": "夜空",
+  "license": "ISC",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
+  }
+}
